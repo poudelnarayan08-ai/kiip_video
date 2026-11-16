@@ -1,0 +1,22 @@
+{
+  "part": 14,
+  "source_audio": "kiip3_audio.mp3",
+  "start_ms": 390000,
+  "end_ms": 392557,
+  "transcript": [],
+  "caption_groups": [],
+  "scenes": [
+    {
+      "start_ms": 390000,
+      "end_ms": 392557,
+      "type": "summary_teaser",
+      "title": "Recap -고 해서; -(으)면 되다 mentioned only as next-lesson teaser",
+      "visual_description": "Conclude with recap; book page 16 only as small teaser if needed, do NOT teach it",
+      "animation": "slow_reveal",
+      "requires_verification": false
+    }
+  ],
+  "review_notes": [
+    "Regenerated from full_transcript.json and lesson_scene_plan.json; compare against original audio before final publishing."
+  ]
+}
