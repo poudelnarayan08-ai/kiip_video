@@ -1,0 +1,15 @@
+node_modules/
+dist/
+out/
+*.log
+.DS_Store
+.env
+.env.*
+!.env.example
+# Do not accidentally publish recordings/scanned textbook to a public repository:
+public/media/
+public/textbook/
+reference/
+*.mp3
+*.mp4
+*.pdf
