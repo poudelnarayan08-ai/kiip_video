@@ -1,0 +1,157 @@
+{
+  "total_words": 914,
+  "by_language": {
+    "ne": 787,
+    "ko": 109,
+    "en": 18,
+    "unknown": 0
+  },
+  "manually_review_required": 20,
+  "unknown_confidence": 914,
+  "review_flagged_words": [
+    {
+      "id": "w0182",
+      "text": "एक-",
+      "start_ms": 80723,
+      "end_ms": 80784,
+      "language": "ne"
+    },
+    {
+      "id": "w0183",
+      "text": "-दमै",
+      "start_ms": 81017,
+      "end_ms": 81158,
+      "language": "ne"
+    },
+    {
+      "id": "w0192",
+      "text": "없-",
+      "start_ms": 84739,
+      "end_ms": 84819,
+      "language": "ko"
+    },
+    {
+      "id": "w0193",
+      "text": "-다",
+      "start_ms": 85141,
+      "end_ms": 85270,
+      "language": "ko"
+    },
+    {
+      "id": "w0394",
+      "text": "주고받-",
+      "start_ms": 169211,
+      "end_ms": 169487,
+      "language": "ko"
+    },
+    {
+      "id": "w0395",
+      "text": "-다",
+      "start_ms": 169665,
+      "end_ms": 169715,
+      "language": "ko"
+    },
+    {
+      "id": "w0462",
+      "text": "शिष्ट-",
+      "start_ms": 200261,
+      "end_ms": 200677,
+      "language": "ne"
+    },
+    {
+      "id": "w0463",
+      "text": "-ता",
+      "start_ms": 200874,
+      "end_ms": 200948,
+      "language": "ne"
+    },
+    {
+      "id": "w0472",
+      "text": "해주-",
+      "start_ms": 204970,
+      "end_ms": 205093,
+      "language": "ko"
+    },
+    {
+      "id": "w0473",
+      "text": "-다",
+      "start_ms": 205377,
+      "end_ms": 205640,
+      "language": "ko"
+    },
+    {
+      "id": "w0597",
+      "text": "먹-",
+      "start_ms": 257173,
+      "end_ms": 257304,
+      "language": "ko"
+    },
+    {
+      "id": "w0598",
+      "text": "-다",
+      "start_ms": 257462,
+      "end_ms": 257730,
+      "language": "ko"
+    },
+    {
+      "id": "w0602",
+      "text": "먹-",
+      "start_ms": 258984,
+      "end_ms": 259110,
+      "language": "ko"
+    },
+    {
+      "id": "w0603",
+      "text": "-고",
+      "start_ms": 259294,
+      "end_ms": 259381,
+      "language": "ko"
+    },
+    {
+      "id": "w0649",
+      "text": "바-",
+      "start_ms": 279560,
+      "end_ms": 279661,
+      "language": "ko"
+    },
+    {
+      "id": "w0650",
+      "text": "-쁘고",
+      "start_ms": 279813,
+      "end_ms": 280157,
+      "language": "ko"
+    },
+    {
+      "id": "w0704",
+      "text": "व्या-",
+      "start_ms": 300370,
+      "end_ms": 300725,
+      "language": "ne"
+    },
+    {
+      "id": "w0705",
+      "text": "-करण",
+      "start_ms": 300882,
+      "end_ms": 301050,
+      "language": "ne"
+    },
+    {
+      "id": "w0843",
+      "text": "व्या-",
+      "start_ms": 360450,
+      "end_ms": 360787,
+      "language": "ne"
+    },
+    {
+      "id": "w0844",
+      "text": "-करणले",
+      "start_ms": 360949,
+      "end_ms": 361410,
+      "language": "ne"
+    }
+  ],
+  "notes": [
+    "Verify word timing and mixed Nepali/Korean speech against source audio before final render.",
+    "Part files 04,08,11,12,13,14 regenerated from master transcript with new caption grouping."
+  ]
+}
