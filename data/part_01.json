@@ -1,0 +1,1002 @@
+{
+  "part": 1,
+  "source_audio": "kiip3_audio.mp3",
+  "start_ms": 0,
+  "end_ms": 30000,
+  "transcript": [
+    {
+      "id": "w0001",
+      "text": "नमस्ते",
+      "start_ms": 308,
+      "end_ms": 716,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0002",
+      "text": "आजको",
+      "start_ms": 1102,
+      "end_ms": 1596,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0003",
+      "text": "यस",
+      "start_ms": 1667,
+      "end_ms": 1751,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0004",
+      "text": "प्रस्तुतिमा",
+      "start_ms": 1842,
+      "end_ms": 2556,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0005",
+      "text": "हामी",
+      "start_ms": 2696,
+      "end_ms": 2850,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0006",
+      "text": "KIIP",
+      "start_ms": 2850,
+      "end_ms": 3234,
+      "language": "en",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0007",
+      "text": "Level",
+      "start_ms": 3315,
+      "end_ms": 3698,
+      "language": "en",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0008",
+      "text": "3",
+      "start_ms": 3795,
+      "end_ms": 3990,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0009",
+      "text": "को",
+      "start_ms": 3990,
+      "end_ms": 4080,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0010",
+      "text": "Chapter",
+      "start_ms": 4142,
+      "end_ms": 4280,
+      "language": "en",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0011",
+      "text": "1",
+      "start_ms": 4367,
+      "end_ms": 4586,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0012",
+      "text": "대인관계",
+      "start_ms": 4894,
+      "end_ms": 5471,
+      "language": "ko",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0013",
+      "text": "अर्थात्",
+      "start_ms": 5643,
+      "end_ms": 5920,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0014",
+      "text": "पारस्परिक",
+      "start_ms": 6283,
+      "end_ms": 6705,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0015",
+      "text": "सम्बन्धको",
+      "start_ms": 6836,
+      "end_ms": 7250,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0016",
+      "text": "बारेमा",
+      "start_ms": 7250,
+      "end_ms": 7551,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0017",
+      "text": "कुरा",
+      "start_ms": 7693,
+      "end_ms": 7970,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0018",
+      "text": "गर्दैछौं",
+      "start_ms": 7970,
+      "end_ms": 8240,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0019",
+      "text": "कोरियामा",
+      "start_ms": 8654,
+      "end_ms": 9170,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0020",
+      "text": "बस्दा",
+      "start_ms": 9254,
+      "end_ms": 9372,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0021",
+      "text": "काम",
+      "start_ms": 9630,
+      "end_ms": 9790,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0022",
+      "text": "गर्दा",
+      "start_ms": 9790,
+      "end_ms": 10061,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0023",
+      "text": "वा",
+      "start_ms": 10358,
+      "end_ms": 10513,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0024",
+      "text": "पढ्दा",
+      "start_ms": 10633,
+      "end_ms": 10949,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0025",
+      "text": "मानिसहरूसँगको",
+      "start_ms": 11006,
+      "end_ms": 11753,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0026",
+      "text": "सम्बन्ध",
+      "start_ms": 11804,
+      "end_ms": 12258,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0027",
+      "text": "कस्तो",
+      "start_ms": 12378,
+      "end_ms": 12483,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0028",
+      "text": "हुन्छ",
+      "start_ms": 12590,
+      "end_ms": 12876,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0029",
+      "text": "त्यसलाई",
+      "start_ms": 13169,
+      "end_ms": 13374,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0030",
+      "text": "कसरी",
+      "start_ms": 13493,
+      "end_ms": 13757,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0031",
+      "text": "सन्तुलनमा",
+      "start_ms": 13832,
+      "end_ms": 14330,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0032",
+      "text": "राख्ने",
+      "start_ms": 14422,
+      "end_ms": 14483,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0033",
+      "text": "यो",
+      "start_ms": 14964,
+      "end_ms": 15104,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0034",
+      "text": "एकदमै",
+      "start_ms": 15211,
+      "end_ms": 15360,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0035",
+      "text": "महत्वपूर्ण",
+      "start_ms": 15360,
+      "end_ms": 16053,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0036",
+      "text": "छ",
+      "start_ms": 16135,
+      "end_ms": 16210,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0037",
+      "text": "हैन",
+      "start_ms": 16462,
+      "end_ms": 16640,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0038",
+      "text": "त",
+      "start_ms": 16640,
+      "end_ms": 16715,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0039",
+      "text": "आउनुस्",
+      "start_ms": 17143,
+      "end_ms": 17398,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0040",
+      "text": "आजको",
+      "start_ms": 17657,
+      "end_ms": 17848,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0041",
+      "text": "यो",
+      "start_ms": 17910,
+      "end_ms": 18110,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0042",
+      "text": "session",
+      "start_ms": 18110,
+      "end_ms": 18323,
+      "language": "en",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0043",
+      "text": "सुरु",
+      "start_ms": 18424,
+      "end_ms": 18660,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0044",
+      "text": "गरौं",
+      "start_ms": 18660,
+      "end_ms": 18876,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0045",
+      "text": "आज",
+      "start_ms": 19746,
+      "end_ms": 19868,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0046",
+      "text": "हामी",
+      "start_ms": 19921,
+      "end_ms": 20175,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0047",
+      "text": "मुख्य",
+      "start_ms": 20175,
+      "end_ms": 20376,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0048",
+      "text": "गरी",
+      "start_ms": 20527,
+      "end_ms": 20700,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0049",
+      "text": "यी",
+      "start_ms": 20700,
+      "end_ms": 20896,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0050",
+      "text": "कुराहरू",
+      "start_ms": 20982,
+      "end_ms": 21220,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0051",
+      "text": "हेर्दैछौं",
+      "start_ms": 21220,
+      "end_ms": 21607,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0052",
+      "text": "है",
+      "start_ms": 21710,
+      "end_ms": 21914,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0053",
+      "text": "सम्बन्धको",
+      "start_ms": 22353,
+      "end_ms": 22838,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0054",
+      "text": "परिचय",
+      "start_ms": 22957,
+      "end_ms": 23511,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0055",
+      "text": "त्यसमा",
+      "start_ms": 23837,
+      "end_ms": 24294,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0056",
+      "text": "आउने",
+      "start_ms": 24451,
+      "end_ms": 24594,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0057",
+      "text": "समस्याहरू",
+      "start_ms": 24694,
+      "end_ms": 25043,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0058",
+      "text": "राम्रो",
+      "start_ms": 25394,
+      "end_ms": 25632,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0059",
+      "text": "सम्बन्ध",
+      "start_ms": 25721,
+      "end_ms": 25974,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0060",
+      "text": "कसरी",
+      "start_ms": 26150,
+      "end_ms": 26412,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0061",
+      "text": "कायम",
+      "start_ms": 26470,
+      "end_ms": 26815,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0062",
+      "text": "राख्ने",
+      "start_ms": 26891,
+      "end_ms": 27086,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0063",
+      "text": "अनि",
+      "start_ms": 27386,
+      "end_ms": 27490,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0064",
+      "text": "एकदमै",
+      "start_ms": 27599,
+      "end_ms": 27970,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0065",
+      "text": "काम",
+      "start_ms": 28010,
+      "end_ms": 28074,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0066",
+      "text": "लाग्ने",
+      "start_ms": 28074,
+      "end_ms": 28330,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0067",
+      "text": "एउटा",
+      "start_ms": 28330,
+      "end_ms": 28630,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0068",
+      "text": "व्याकरण",
+      "start_ms": 28630,
+      "end_ms": 29056,
+      "language": "ne",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0069",
+      "text": "-고",
+      "start_ms": 29275,
+      "end_ms": 29641,
+      "language": "ko",
+      "confidence": null,
+      "needs_review": false
+    },
+    {
+      "id": "w0070",
+      "text": "해서",
+      "start_ms": 29924,
+      "end_ms": 30053,
+      "language": "ko",
+      "confidence": null,
+      "needs_review": false
+    }
+  ],
+  "caption_groups": [
+    {
+      "start_ms": 308,
+      "end_ms": 716,
+      "word_ids": [
+        "w0001"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 1102,
+      "end_ms": 2556,
+      "word_ids": [
+        "w0002",
+        "w0003",
+        "w0004"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 2696,
+      "end_ms": 3698,
+      "word_ids": [
+        "w0005",
+        "w0006",
+        "w0007"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 3795,
+      "end_ms": 4586,
+      "word_ids": [
+        "w0008",
+        "w0009",
+        "w0010",
+        "w0011"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 4894,
+      "end_ms": 5920,
+      "word_ids": [
+        "w0012",
+        "w0013"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 6283,
+      "end_ms": 7551,
+      "word_ids": [
+        "w0014",
+        "w0015",
+        "w0016"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 7693,
+      "end_ms": 8240,
+      "word_ids": [
+        "w0017",
+        "w0018"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 8654,
+      "end_ms": 9372,
+      "word_ids": [
+        "w0019",
+        "w0020"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 9630,
+      "end_ms": 10061,
+      "word_ids": [
+        "w0021",
+        "w0022"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 10358,
+      "end_ms": 11753,
+      "word_ids": [
+        "w0023",
+        "w0024",
+        "w0025"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 11804,
+      "end_ms": 12876,
+      "word_ids": [
+        "w0026",
+        "w0027",
+        "w0028"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 13169,
+      "end_ms": 14483,
+      "word_ids": [
+        "w0029",
+        "w0030",
+        "w0031",
+        "w0032"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 14964,
+      "end_ms": 16210,
+      "word_ids": [
+        "w0033",
+        "w0034",
+        "w0035",
+        "w0036"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 16462,
+      "end_ms": 16715,
+      "word_ids": [
+        "w0037",
+        "w0038"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 17143,
+      "end_ms": 17398,
+      "word_ids": [
+        "w0039"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 17657,
+      "end_ms": 18323,
+      "word_ids": [
+        "w0040",
+        "w0041",
+        "w0042"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 18424,
+      "end_ms": 18876,
+      "word_ids": [
+        "w0043",
+        "w0044"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 19746,
+      "end_ms": 20700,
+      "word_ids": [
+        "w0045",
+        "w0046",
+        "w0047",
+        "w0048"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 20700,
+      "end_ms": 21914,
+      "word_ids": [
+        "w0049",
+        "w0050",
+        "w0051",
+        "w0052"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 22353,
+      "end_ms": 23511,
+      "word_ids": [
+        "w0053",
+        "w0054"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 23837,
+      "end_ms": 25043,
+      "word_ids": [
+        "w0055",
+        "w0056",
+        "w0057"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 25394,
+      "end_ms": 25974,
+      "word_ids": [
+        "w0058",
+        "w0059"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 26150,
+      "end_ms": 27086,
+      "word_ids": [
+        "w0060",
+        "w0061",
+        "w0062"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 27386,
+      "end_ms": 28074,
+      "word_ids": [
+        "w0063",
+        "w0064",
+        "w0065"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 28074,
+      "end_ms": 29056,
+      "word_ids": [
+        "w0066",
+        "w0067",
+        "w0068"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    },
+    {
+      "start_ms": 29275,
+      "end_ms": 30053,
+      "word_ids": [
+        "w0069",
+        "w0070"
+      ],
+      "style": "word_highlight",
+      "active_word_color": "#FFD700",
+      "inactive_word_color": "#FFFFFF",
+      "active_word_animation": "scale_pop"
+    }
+  ],
+  "scenes": [
+    {
+      "start_ms": 0,
+      "end_ms": 8400,
+      "type": "title_card",
+      "title": "KIIP Level 3 — Chapter 1: 대인관계 (पारस्परिक सम्बन्ध)",
+      "visual_description": "Warm greeting ('नमस्ते') transitions into main lesson title card: 'KIIP Level 3 • Chapter 1'. Center hero badge displays Korean '대인관계' in bold Hangul with Nepali subtitle 'पारस्परिक सम्बन्ध' (Interpersonal Relationships).",
+      "animation": "spring_pop",
+      "requires_verification": false
+    },
+    {
+      "start_ms": 8400,
+      "end_ms": 19200,
+      "type": "icon_trio_comparison",
+      "title": "कोरियामा सम्बन्धको सन्तुलन (Balancing Relationships in Korea)",
+      "visual_description": "Three connected circular icons appear sequentially as narrated: Living in Korea (कोरियामा बस्दा - house icon), Working (काम गर्दा - briefcase icon), and Studying (पढ्दा - book icon), converging into a balanced scale icon representing harmonious human relationships, followed by a 'Session Start' banner.",
+      "animation": "slide_up_stagger",
+      "requires_verification": false
+    },
+    {
+      "start_ms": 19200,
+      "end_ms": 30472,
+      "type": "agenda_roadmap",
+      "title": "आजको पाठको रूपरेखा (Lesson Roadmap)",
+      "visual_description": "Vertical numbered roadmap checklist animating in one by one with narration: 1. सम्बन्धको परिचय (Introduction to Relationships), 2. सम्बन्धमा आउने समस्याहरू (Relationship Problems), 3. राम्रो सम्बन्ध कसरी कायम राख्ने (Maintaining Good Relationships), 4. व्याकरण: -고 해서 (Grammar: -고 해서).",
+      "animation": "kinetic_slide_right",
+      "requires_verification": false
+    }
+  ],
+  "review_notes": [
+    "Word w0070 ('해서') begins in Part 1 at 29924ms and crosses the 30000ms boundary (ends at 30053ms); kept in Part 1 per boundary rule."
+  ]
+}
